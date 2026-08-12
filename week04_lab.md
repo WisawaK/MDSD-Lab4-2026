@@ -1,4 +1,4 @@
-<img width="351" height="793" alt="Screenshot 2026-08-12 135617" src="https://github.com/user-attachments/assets/adcf22d6-6831-4165-9356-6c9d870db63b" /># 📱 ใบงานการทดลองที่ 4
+# 📱 ใบงานการทดลองที่ 4
 # Flutter Layout & Navigation — Multi-Screen Travel App
 
 > **รายวิชา:** การพัฒนาซอฟต์แวร์สำหรับอุปกรณ์เคลื่อนที่  
@@ -1960,7 +1960,7 @@ final GoRouter appRouter = GoRouter(
 ## โค้ด
 ```
 import 'package:flutter/material.dart';
-import 'router/app_router.dart'; // ✅ แก้ไข Path ตรงนี้ให้ชี้เข้าไปในโฟลเดอร์ router/
+import 'router/app_router.dart'; 
 
 void main() {
   runApp(const MyApp());
@@ -2608,9 +2608,8 @@ StatefulShellRoute จะช่วยจำ state ของแต่ละ tab �
 ข้อมูลใน extra มันเก็บอยู่ใน memory ชั่วคราว พอกด Refresh เว็บหรือเข้าด้วย Deep Link ข้อมูลจะกลายเป็น null ทันที วิธีแก้คือเปลี่ยนไปส่ง id ผ่าน path/query parameter แทน แล้วเอา id นั้นไปดึงข้อมูลใหม่อีกที
 ```
 5. วาด Navigation Hierarchy ของแอปนี้ (สามารถวาดบนกระดาษแล้วถ่ายรูปส่งได้)
-```text
+<img width="2720" height="1784" alt="AdobeExpressPhotos_a6a091c5abb14c4ea4f65ab69a1a8a60_CopyEdited" src="https://github.com/user-attachments/assets/b7d3e2c6-1ef4-4bde-a9ee-fc22f33dc9c4" />
 
-```
 ---
 
 ## 📤 การส่งงาน
