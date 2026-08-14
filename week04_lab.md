@@ -2357,6 +2357,8 @@ GoRoute(
 บันทึกรูปโค้ด และรูปผลการทดลองที่นี่ 
 ```
 <img width="613" height="861" alt="Screenshot 2026-08-12 152357" src="https://github.com/user-attachments/assets/7e834745-3c29-485d-b22f-c794ebf15211" />
+
+---
 ```
 import 'package:flutter/material.dart';
 
